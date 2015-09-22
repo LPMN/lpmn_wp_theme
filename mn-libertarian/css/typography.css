@@ -1,0 +1,78 @@
+/* colors */
+.orange-font {
+	color: #ddb306;
+}
+
+/* add font classes */
+.kelly {
+	font-family: 'Kelly Slab', cursive;
+}
+
+/* add border classes */
+.orange-border-bottom {
+	border-bottom: 1px #deb406 solid;
+}
+.orange-border-top {
+	border-top: 1px #deb406 solid;
+}
+
+/* global */
+html {
+	font-family: "Arial", sans-serif;
+	color: #000;
+}
+h1, h2, h3 {
+	color: #003d79;
+	font-family: 'Kelly Slab', cursive;
+}
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 25px;
+	line-height: 28px;
+}
+h2 .label {
+	font-family: Arial, sans-serif;
+}
+h3 {
+	font-size: 18px;
+}
+h4, h5, h6 {
+	font-weight: bold;
+}
+h4 {
+	font-size: 30px;
+}
+h5 {
+	font-size: 15px;
+	margin: 0 0 12px;
+	padding: 0;
+}
+h6 {
+	font-size: 13px;
+}
+p {
+	font-size: 14px;
+	line-height: 18px;
+}
+ul, ol {
+	font-size: 13px;
+	line-height: 17px;
+}
+.btn {
+	font-family: 'Kelly Slab', cursive;
+}
+.center {
+	text-align: center;
+}
+
+/* Lists */
+.no-style-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.no-style-list h4 {
+	font-size: 16px;
+}
